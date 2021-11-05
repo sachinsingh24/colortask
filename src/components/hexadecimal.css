@@ -1,0 +1,12 @@
+.bgColor {
+  align-items: center;
+  text-align: center;
+  color: white;
+  margin: auto 1rem;
+  border-radius: 0.5rem;
+}
+
+h1 {
+  padding: 1rem;
+  margin: 0.2rem auto;
+}
