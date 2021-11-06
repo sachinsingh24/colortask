@@ -1,5 +1,5 @@
 import React from 'react';
-import './index.css';
+import './App.css';
 import Color from './components/hexadecimal.js';
 
 export default function App() {
